@@ -1,5 +1,8 @@
 https://hospitalapiforcn.herokuapp.com/api/v1/doctors/register
-
+https://hospitalapiforcn.herokuapp.com/api/v1/doctors/login
+https://hospitalapiforcn.herokuapp.com/api/v1/patients/register
+https://hospitalapiforcn.herokuapp.com/api/v1/:id/create_report
+https://hospitalapiforcn.herokuapp.com/api/v1/doctors/:id/all_reports
 
 
 Hospital API
